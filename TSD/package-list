@@ -1,3 +1,5 @@
+org.sogrey.tsd.dialog
 org.sogrey.tsd.log
 org.sogrey.tsd.log.utils
+org.sogrey.tsd.snackbar
 org.sogrey.tsd.toast
